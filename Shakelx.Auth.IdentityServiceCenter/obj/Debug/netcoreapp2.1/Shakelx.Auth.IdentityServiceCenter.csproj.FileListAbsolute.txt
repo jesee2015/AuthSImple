@@ -1,0 +1,14 @@
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\bin\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.deps.json
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\bin\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.runtimeconfig.json
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\bin\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.runtimeconfig.dev.json
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\bin\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.dll
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\obj\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.csprojAssemblyReference.cache
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\obj\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.csproj.CoreCompileInputs.cache
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\obj\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.RazorAssemblyInfo.cache
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\obj\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.RazorAssemblyInfo.cs
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\obj\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.AssemblyInfoInputs.cache
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\obj\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.AssemblyInfo.cs
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\obj\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.RazorTargetAssemblyInfo.cache
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\bin\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.pdb
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\obj\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.dll
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.IdentityServiceCenter\obj\Debug\netcoreapp2.1\Shakelx.Auth.IdentityServiceCenter.pdb

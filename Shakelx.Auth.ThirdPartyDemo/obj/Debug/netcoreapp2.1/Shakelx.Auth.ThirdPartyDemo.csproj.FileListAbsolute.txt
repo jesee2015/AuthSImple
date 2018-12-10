@@ -1,0 +1,11 @@
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.ThirdPartyDemo\bin\Debug\netcoreapp2.1\Shakelx.Auth.ThirdPartyDemo.deps.json
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.ThirdPartyDemo\bin\Debug\netcoreapp2.1\Shakelx.Auth.ThirdPartyDemo.runtimeconfig.json
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.ThirdPartyDemo\bin\Debug\netcoreapp2.1\Shakelx.Auth.ThirdPartyDemo.runtimeconfig.dev.json
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.ThirdPartyDemo\bin\Debug\netcoreapp2.1\Shakelx.Auth.ThirdPartyDemo.dll
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.ThirdPartyDemo\obj\Debug\netcoreapp2.1\Shakelx.Auth.ThirdPartyDemo.csproj.CoreCompileInputs.cache
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.ThirdPartyDemo\obj\Debug\netcoreapp2.1\Shakelx.Auth.ThirdPartyDemo.AssemblyInfoInputs.cache
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.ThirdPartyDemo\obj\Debug\netcoreapp2.1\Shakelx.Auth.ThirdPartyDemo.AssemblyInfo.cs
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.ThirdPartyDemo\bin\Debug\netcoreapp2.1\Shakelx.Auth.ThirdPartyDemo.pdb
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.ThirdPartyDemo\obj\Debug\netcoreapp2.1\Shakelx.Auth.ThirdPartyDemo.csprojAssemblyReference.cache
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.ThirdPartyDemo\obj\Debug\netcoreapp2.1\Shakelx.Auth.ThirdPartyDemo.dll
+J:\shakelx_WorkSpace\core\Shakelx.Auth\Shakelx.Auth.ThirdPartyDemo\obj\Debug\netcoreapp2.1\Shakelx.Auth.ThirdPartyDemo.pdb
