@@ -725,10 +725,11 @@
       ]
     },
     "Newtonsoft.Json/11.0.1": {
-      "sha512": "pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
+      "sha512": "wrf5LBX1omJ/8HiYKby22uBV7MPCfwxXWY39w28VZJjYdN1Cb3eiTkkWk5gAkkdW+N/A0hgSmqtiPoAwsb07qg==",
       "type": "package",
       "path": "newtonsoft.json/11.0.1",
       "files": [
+        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -778,23 +779,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sqtju\\.nuget\\packages\\": {},
+    "C:\\Users\\Liuxi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "J:\\shakelx_WorkSpace\\core\\Shakelx.Auth\\Shakelx.Auth.ThirdPartyDemo\\Shakelx.Auth.ThirdPartyDemo.csproj",
+      "projectUniqueName": "D:\\asp.net core\\AuthSImple\\Shakelx.Auth.ThirdPartyDemo\\Shakelx.Auth.ThirdPartyDemo.csproj",
       "projectName": "Shakelx.Auth.ThirdPartyDemo",
-      "projectPath": "J:\\shakelx_WorkSpace\\core\\Shakelx.Auth\\Shakelx.Auth.ThirdPartyDemo\\Shakelx.Auth.ThirdPartyDemo.csproj",
-      "packagesPath": "C:\\Users\\sqtju\\.nuget\\packages\\",
-      "outputPath": "J:\\shakelx_WorkSpace\\core\\Shakelx.Auth\\Shakelx.Auth.ThirdPartyDemo\\obj\\",
+      "projectPath": "D:\\asp.net core\\AuthSImple\\Shakelx.Auth.ThirdPartyDemo\\Shakelx.Auth.ThirdPartyDemo.csproj",
+      "packagesPath": "C:\\Users\\Liuxi\\.nuget\\packages\\",
+      "outputPath": "D:\\asp.net core\\AuthSImple\\Shakelx.Auth.ThirdPartyDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sqtju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Liuxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -16,7 +16,7 @@ namespace Shakelx.Auth.ClientCredentialApi.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new JsonResult(from c in User.Claims select new { c.Type, c.Value });
         }
 
         // GET api/values/5
